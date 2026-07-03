@@ -1,46 +1,33 @@
-```markdown
-<div align="center">
-
 # Hi there, I'm Jilla Tejasree 👋
 
-### AI & Data Science Undergraduate | Python Developer | AI Enthusiast | Open Source Learner
+<h3 align="center">AI & Data Science Undergraduate | Python Developer | AI Enthusiast | Open Source Learner</h3>
 
-<p>
-Passionate about building AI-powered applications, solving real-world problems, and continuously learning modern technologies.
+<p align="center">
+  Passionate about building AI-powered applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
-<p>
-<a href="https://github.com/tejasreejilla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/tejasree-jilla-033160341">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tejasreejilla@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/your_username">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/tejasreejilla">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tejasree-jilla-033160341">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tejasreejilla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
-
-</div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science at **CBIT**
+🎓 B.Tech in **Artificial Intelligence & Data Science** at **CBIT**
 
-💼 Former **Artificial Intelligence Intern at Infosys**
+💼 Former **Artificial Intelligence Intern** at **Infosys**
 
 🌱 Currently learning
 
@@ -49,17 +36,7 @@ Passionate about building AI-powered applications, solving real-world problems, 
 - AWS
 - Docker
 - LLM Applications
-- Prompt Engineering
 - System Design
-
-💡 Interested in
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Full Stack Development
-- Open Source
-- Cloud Computing
 
 💬 Ask me about
 
@@ -70,77 +47,60 @@ Passionate about building AI-powered applications, solving real-world problems, 
 - MERN Stack
 - Git & GitHub
 
+⚡ Fun Fact:
+
+> I enjoy combining AI with Full Stack Development to solve real-world problems.
+
 ---
 
 # 🚀 Featured Projects
 
 ### 💰 Income & Expense Tracker
 
-A full-stack MERN application for managing personal finances with dashboards and data visualization.
-
-**Tech Stack**
-
-`MongoDB` `Express.js` `React` `Node.js`
-
----
+- MERN Stack application
+- Personal finance management
+- Dashboard & data visualization
 
 ### 🩺 Disease Prediction System
 
-A machine learning-based web application that predicts diseases from symptoms and provides medicines, precautions, and treatments.
-
-**Tech Stack**
-
-`Python` `HTML` `CSS` `JavaScript`
+- Machine Learning powered
+- Predicts diseases from symptoms
+- Provides medicines & precautions
 
 ---
 
 # 🛠 Tech Stack
 
-## Backend
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,django,fastapi,nodejs"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,sql"/>
 </p>
 
-## Frontend
+### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,fastapi,bootstrap"/>
 </p>
 
-## Cloud & DevOps
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 </p>
 
-## Databases
+### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman"/>
 </p>
 
-## AI / ML
+### AI & ML
 
-<p>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vector%20Databases-purple?style=for-the-badge"/>
-
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux"/>
-</p>
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Data Science
 
 ---
 
@@ -157,74 +117,54 @@ A machine learning-based web application that predicts diseases from symptoms an
 
 ---
 
-# 🌟 Leadership & Activities
+# 🌟 Leadership
 
-- 🎨 Lead — Design Department, CBIT Developer Student Club
-- 💡 Executive Board Member — IEEE CBIT Student Branch
-- 🌍 Junior Developer — CBIT Open Source Community
-- 🎭 Co-Lead — Electoral Literacy Club
-- 🏅 Smart India Hackathon Participant
-- 🌱 Hacktoberfest Contributor
+- 🎨 Lead – Design Department, CBIT Developer Student Club
+- 💡 Executive Board Member – IEEE CBIT Student Branch
+- 🌍 Junior Developer – CBIT Open Source Community
+- 🎭 Co-Lead – Electoral Literacy Club
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<div align="center">
-
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejasreejilla&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasreejilla&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasreejilla&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+---
 
-<div align="center">
+# 🏆 GitHub Trophies
 
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=tejasreejilla&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasreejilla&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect with Me
 
 <p align="center">
-
-<a href="mailto:tejasreejilla@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/tejasree-jilla-033160341">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tejasreejilla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<a href="mailto:tejasreejilla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tejasree-jilla-033160341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/tejasreejilla"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<div align="center">
-
-### ⭐ *"Building intelligent solutions today for a smarter tomorrow."*
-
-</div>
-```
+<p align="center">
+⭐ <i>Building intelligent solutions today for a smarter tomorrow.</i>
+</p>
