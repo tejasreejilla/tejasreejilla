@@ -1,4 +1,4 @@
-# Hi , I'm Jilla Tejasree
+# Hi, I'm Jilla Tejasree
 
 <h3 align="center">AI & Data Science Undergraduate | Python Developer | AI Enthusiast</h3>
 
