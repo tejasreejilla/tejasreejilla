@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7F5AF0,100:2CB67D&text=Jilla%20Tejasree&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Python%20Programmer%20•%20ML%20Enthusiast&descAlignY=60"/>
