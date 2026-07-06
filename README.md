@@ -52,35 +52,6 @@ AI & Data Science Undergraduate • AI Developer • Python Programmer • Open 
 - System Design
 - Generative AI
 
-💬 Ask me about
-
-- Python
-- Java
-- SQL
-- Machine Learning
-- Artificial Intelligence
-- MERN Stack
-- Data Structures & Algorithms
-
----
-
-# 🚀 Experience
-
-## Artificial Intelligence Intern | Infosys
-
-📅 Feb 2026 – Apr 2026
-
-Worked on an **Intelligent Emotion Detection System for Cats**
-
-### Responsibilities
-
-- Built ML models for feline emotion detection
-- Data preprocessing & feature engineering
-- Model training & evaluation
-- Facial expression analysis
-- Vocal cue classification
-- Automated pet behavior monitoring
-
 ---
 
 # 🚀 Featured Projects
@@ -168,54 +139,6 @@ Python • HTML • CSS • JavaScript
 
 ---
 
-# 🏅 Certifications
-
-✔ Salesforce Agentforce Specialist
-
-✔ Oracle AI Foundations
-
-✔ AWS Cloud Computing
-
-✔ Coursera – Deep Learning & Neural Networks
-
-✔ Cisco – Data Science Essentials
-
-✔ Internshala – Web Development
-
-✔ GeeksforGeeks – Python Programming
-
-✔ CodeAlpha – Machine Learning
-
----
-
-# 🏆 Leadership & Positions
-
-⭐ Lead – Design Department, CBIT Developer Student Club (CDSC)
-
-⭐ Executive Board Member – IEEE CBIT Student Branch
-
-⭐ Junior Developer – CBIT Open Source Community (COSC)
-
-⭐ Co-Lead – Arts Department, Electoral Literacy Club (ELC)
-
-⭐ Lead – Chaitanya Srujana Arts Club
-
-⭐ Class Representative
-
----
-
-# 💡 Achievements
-
-🏅 Smart India Hackathon Participant
-
-🏅 HacktoberFest Open Source Contributor
-
-🏅 Former House Captain
-
-🏅 Flashmob Performer – Shruthi Cultural Fest
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -263,20 +186,6 @@ Python • HTML • CSS • JavaScript
 </a>
 
 </p>
-
----
-
-# 🌟 Fun Facts
-
-✨ I enjoy building AI-powered applications.
-
-🎨 Love designing posters and graphics.
-
-📖 Reading novels keeps me inspired.
-
-🎵 Music helps me stay productive.
-
-🎬 Interested in video editing & digital creativity.
 
 ---
 
