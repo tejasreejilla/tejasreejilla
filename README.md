@@ -1,250 +1,222 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Jilla Tejasree
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Undergraduate • AI Developer • Python Programmer • Open Source Enthusiast
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi there, I'm **Jilla Tejasree**
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Enthusiast;MERN+Stack+Developer;Building+Intelligent+Solutions" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=Jilla%20Tejasree&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20|%20Python%20Programmer%20|%20Machine%20Learning%20Enthusiast&descAlignY=58"/>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Engineer;MERN+Stack+Developer;Open+Source+Contributor;Building+Intelligent+Solutions;Always+Learning+Something+New"/>
 
-<a href="https://github.com/tejasreejilla">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=tejasreejilla&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<a href="https://linkedin.com/in/tejasree-jilla-033160341">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/github/followers/tejasreejilla?style=for-the-badge&logo=github"/>
 
-<a href="mailto:tejasreejilla@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/github/stars/tejasreejilla?affiliations=OWNER&style=for-the-badge"/>
 
-<a href="https://leetcode.com/u/uwaqWHyJqh/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 👩‍💻 About Me
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 B.Tech in **Artificial Intelligence & Data Science**
+# 💫 About Me
+
+🎓 **B.Tech Artificial Intelligence & Data Science**
 
 🏫 **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
 
-📈 **CGPA:** **9.61/10**
+📈 **Current CGPA:** **9.61/10**
 
-💼 Former **Artificial Intelligence Intern @ Infosys**
+🌱 Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing and Open Source.
 
-💡 Passionate about solving real-world problems using AI, Machine Learning, and Full Stack Development.
-
-🌱 Currently learning
-
-- FastAPI
-- Django
-- AWS Cloud
-- Docker
-- Large Language Models (LLMs)
-- System Design
-- Generative AI
-
-💬 Ask me about
-
-- Python
-- Java
-- SQL
-- Machine Learning
-- Artificial Intelligence
-- MERN Stack
-- Data Structures & Algorithms
+💡 I enjoy building intelligent systems that solve real-world problems while continuously exploring emerging technologies.
 
 ---
 
-# 🚀 Experience
+## 🚀 Currently Exploring
 
-## Artificial Intelligence Intern | Infosys
-
-📅 Feb 2026 – Apr 2026
-
-Worked on an **Intelligent Emotion Detection System for Cats**
-
-### Responsibilities
-
-- Built ML models for feline emotion detection
-- Data preprocessing & feature engineering
-- Model training & evaluation
-- Facial expression analysis
-- Vocal cue classification
-- Automated pet behavior monitoring
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- ⚡ FastAPI
+- 🌐 Django
+- ☁️ AWS Cloud
+- 🐳 Docker
+- 🏗️ System Design
+- 🔥 Advanced Machine Learning
 
 ---
 
-# 🚀 Featured Projects
+# 🎓 Education
 
-## 💰 Income & Expense Tracker
-
-**Tech Stack**
-
-- MongoDB
-- Express.js
-- React.js
-- Node.js
-
-### Features
-
-- Personal finance management
-- Expense analytics dashboard
-- Monthly reports
-- Income tracking
-- Responsive UI
-- Secure data storage
+| Degree | Institute | Performance |
+|---------|-----------|-------------|
+| B.Tech AI & DS | Chaitanya Bharathi Institute of Technology | **CGPA: 9.61** |
+| Intermediate | Sri Chaitanya Junior College | **98.8%** |
+| SSC | Bright Concept High School | **100%** |
 
 ---
 
-## 🩺 Diagnostic System for Disease Prediction
+# 💼 Experience
 
-**Tech Stack**
+## 🤖 Artificial Intelligence Intern
 
-Python • HTML • CSS • JavaScript
+### Infosys
 
-### Features
+📅 **Feb 2026 – Apr 2026**
 
-- Disease prediction using symptoms
-- Medicine recommendations
-- Precaution suggestions
-- User-friendly interface
-- Fast diagnosis support
+✔ Machine Learning
+
+✔ Data Preprocessing
+
+✔ Feature Engineering
+
+✔ Emotion Detection
+
+✔ Artificial Intelligence
+
+✔ Computer Vision
+
+✔ Model Training
+
+✔ Data Analysis
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql&perline=6"/>
+
 </p>
 
 ---
 
-## Frameworks & Libraries
+### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,bootstrap"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,bootstrap&perline=6"/>
+
 </p>
 
 ---
 
-## Databases
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3"/>
+
 </p>
 
 ---
 
-## Tools & Platforms
+### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws&perline=6"/>
+
 </p>
 
 ---
 
-# 📚 Core Subjects
+# 📚 Core Computer Science
 
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Operating Systems
-- Computer Networks
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| 📚 Data Structures & Algorithms | 🧩 Object-Oriented Programming | 🗄️ DBMS |
+| 💻 Operating Systems | 🌐 Computer Networks | 🤖 Artificial Intelligence |
+| 📈 Machine Learning | 🧠 Deep Learning | ☁️ Cloud Computing |
+
+</div>
 
 ---
 
 # 🏅 Certifications
 
-✔ Salesforce Agentforce Specialist
+🏆 Salesforce Agentforce Specialist
 
-✔ Oracle AI Foundations
+🏆 Oracle AI Foundations
 
-✔ AWS Cloud Computing
+🏆 AWS Cloud Computing
 
-✔ Coursera – Deep Learning & Neural Networks
+🏆 Coursera – Deep Learning & Neural Networks
 
-✔ Cisco – Data Science Essentials
+🏆 Cisco – Data Science Essentials
 
-✔ Internshala – Web Development
+🏆 Internshala – Web Development
 
-✔ GeeksforGeeks – Python Programming
+🏆 GeeksforGeeks – Python Programming
 
-✔ CodeAlpha – Machine Learning
-
----
-
-# 🏆 Leadership & Positions
-
-⭐ Lead – Design Department, CBIT Developer Student Club (CDSC)
-
-⭐ Executive Board Member – IEEE CBIT Student Branch
-
-⭐ Junior Developer – CBIT Open Source Community (COSC)
-
-⭐ Co-Lead – Arts Department, Electoral Literacy Club (ELC)
-
-⭐ Lead – Chaitanya Srujana Arts Club
-
-⭐ Class Representative
+🏆 CodeAlpha – Machine Learning
 
 ---
 
-# 💡 Achievements
+---
 
-🏅 Smart India Hackathon Participant
+# 🏆 Achievements
 
-🏅 HacktoberFest Open Source Contributor
+🥇 Smart India Hackathon Participant
 
-🏅 Former House Captain
+🥇 HacktoberFest Open Source Contributor
 
-🏅 Flashmob Performer – Shruthi Cultural Fest
+🥇 Former House Captain
 
+🥇 Flashmob Performer – Shruthi Cultural Fest
+
+🥇 Active Technical & Cultural Event Organizer
+
+---
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tejasreejilla&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tejasreejilla&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasreejilla&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tejasreejilla&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasreejilla&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tejasreejilla&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=tejasreejilla&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasreejilla&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tejasreejilla&theme=algolia&no-frame=true&margin-w=20&margin-h=20&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -262,46 +234,62 @@ Python • HTML • CSS • JavaScript
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
 </a>
 
+<a href="https://linkedin.com/in/tejasree-jilla-033160341">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-# 🌟 Fun Facts
-
-✨ I enjoy building AI-powered applications.
-
-🎨 Love designing posters and graphics.
-
-📖 Reading novels keeps me inspired.
-
-🎵 Music helps me stay productive.
-
-🎬 Interested in video editing & digital creativity.
-
----
-
-# 📫 Connect With Me
-
-📧 Email
-
-**tejasreejilla@gmail.com**
-
-💼 LinkedIn
-
-https://linkedin.com/in/tejasree-jilla-033160341
-
-💻 GitHub
-
-https://github.com/tejasreejilla
-
-🧩 LeetCode
-
-https://leetcode.com/u/uwaqWHyJqh/
-
----
+# 💬 Random Dev Quote
 
 <p align="center">
 
-### ⭐ "Building intelligent solutions through AI, creativity, and continuous learning."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 😂 Random Programming Joke
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:tejasreejilla@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tejasree-jilla-033160341">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tejasreejilla">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/uwaqWHyJqh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💙 *"Building intelligent solutions through AI, innovation, and continuous learning."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=140&section=footer"/>
+
+</div>
