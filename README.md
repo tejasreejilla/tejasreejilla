@@ -4,6 +4,7 @@
 AI & Data Science Undergraduate • AI Developer • Python Programmer • Open Source Enthusiast
 </h3>
 
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Enthusiast;MERN+Stack+Developer;Building+Intelligent+Solutions" />
   
