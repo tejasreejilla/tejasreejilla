@@ -24,7 +24,7 @@
 
 ---
 
-#  About Me
+# 👩‍💻 About Me
 
 ```python
 class Tejasree:
@@ -59,8 +59,8 @@ class Tejasree:
 
     def motto(self):
         return "Keep Learning. Keep Building."
-
 ```
+
 
 ---
 
@@ -141,50 +141,6 @@ Worked on AI solutions, machine learning workflows, and intelligent automation w
 
 ---
 
-# Featured Projects
-
-## 💰 Income & Expense Tracker
-
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- MongoDB
-
-### Features
-
-✔ Personal Finance Dashboard
-
-✔ Monthly Reports
-
-✔ Expense Analytics
-
-✔ Secure Authentication
-
-✔ Responsive UI
-
----
-
-## 🩺 Disease Prediction System
-
-**Tech Stack**
-
-Python • HTML • CSS • JavaScript
-
-### Features
-
-✔ Disease Prediction
-
-✔ Medicine Recommendation
-
-✔ Precautions
-
-✔ User Friendly Interface
-
-✔ Fast Diagnosis
-
----
 
 # Core Subjects
 
@@ -209,11 +165,8 @@ Python • HTML • CSS • JavaScript
 # GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tejasreejilla&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasreejilla&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejasreejilla&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasreejilla&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -231,19 +184,7 @@ Python • HTML • CSS • JavaScript
 # Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasreejilla&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tejasreejilla&theme=algolia&margin-w=15&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasreejilla&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -282,25 +223,6 @@ Python • HTML • CSS • JavaScript
 
 ---
 
-# Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tejasreejilla&label=Profile+Views&color=444444&style=for-the-badge"/>
-
-</p>
-
----
-
-# Quote
-
-<p align="center">
-
-> **"Artificial Intelligence isn't replacing creativity — it's amplifying it."**
-
-</p>
-
----
 
 <!-- Bottom Banner -->
 
