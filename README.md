@@ -25,15 +25,9 @@
 ---
 ## 👩‍💻 About Me
 
-| 🚀 | Information |
-|:---:|-------------|
-| 🎓 | B.Tech in Artificial Intelligence & Data Science |
-| 🏫 | Chaitanya Bharathi Institute of Technology (CBIT) |
-| 📈 | CGPA: **9.61 / 10** |
-| 💼 | Former AI Intern @ Infosys |
-| 💻 | AI Developer • Python Programmer • MERN Stack |
-| 🌱 | Learning FastAPI, Docker, AWS, LLMs, System Design |
-| ❤️ | Passionate about AI, ML, DSA & Open Source |
+🎓 **B.Tech in Artificial Intelligence & Data Science**  
+🏫 **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**  
+📈 **CGPA:** **9.61/10**
 
 
 ---
