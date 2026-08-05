@@ -23,14 +23,6 @@
 </p>
 
 ---
-## 👩‍💻 About Me
-
-🎓 **B.Tech in Artificial Intelligence & Data Science**  
-🏫 **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**  
-📈 **CGPA:** **9.61/10**
-
-
----
 
 # Education
 
