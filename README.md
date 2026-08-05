@@ -23,43 +23,17 @@
 </p>
 
 ---
+## 👩‍💻 About Me
 
-# 👩‍💻 About Me
-
-```python
-class Tejasree:
-
-    def __init__(self):
-        self.name = "Jilla Tejasree"
-        self.role = "AI Developer"
-        self.college = "CBIT Hyderabad"
-        self.cgpa = "9.61/10"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Generative AI",
-            "Computer Vision",
-            "LLMs"
-        ]
-
-        self.currently_learning = [
-            "FastAPI",
-            "Docker",
-            "AWS",
-            "System Design",
-            "LLMs"
-        ]
-
-    def motto(self):
-        return "Keep Learning. Keep Building."
-```
+| 🚀 | Information |
+|:---:|-------------|
+| 🎓 | B.Tech in Artificial Intelligence & Data Science |
+| 🏫 | Chaitanya Bharathi Institute of Technology (CBIT) |
+| 📈 | CGPA: **9.61 / 10** |
+| 💼 | Former AI Intern @ Infosys |
+| 💻 | AI Developer • Python Programmer • MERN Stack |
+| 🌱 | Learning FastAPI, Docker, AWS, LLMs, System Design |
+| ❤️ | Passionate about AI, ML, DSA & Open Source |
 
 
 ---
