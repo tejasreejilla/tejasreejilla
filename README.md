@@ -88,46 +88,6 @@ Worked on AI solutions, machine learning workflows, and intelligent automation w
 
 ---
 
-# Currently Learning
-
-- Large Language Models
-- Agentic AI
-- Retrieval Augmented Generation
-- Docker
-- AWS
-- FastAPI
-- Django
-- System Design
-
----
-
-
-# Core Subjects
-
-- Data Structures & Algorithms
-
-- Object Oriented Programming
-
-- DBMS
-
-- Operating Systems
-
-- Computer Networks
-
-- Artificial Intelligence
-
-- Machine Learning
-
-- Deep Learning
-
----
-
-# GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tejasreejilla&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasreejilla&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
